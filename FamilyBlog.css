@@ -1,0 +1,171 @@
+body {
+  text-align: center;
+  background-color:darkslategrey;
+}
+
+.navigation ul {
+  text-align: center;
+  font-size: 25px;
+ color: black;
+
+}
+
+.navigation li {
+  text-align: center;
+  align-content: center;
+  font-size: 25px;
+  color: rgb(10, 10, 10);
+ 
+}
+
+h1 {
+  color: rgb(6, 6, 7)
+}
+
+.Opening {
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.Papi {
+  display: inline-block;
+  font-size: 25px;
+  margin-right: 25px;
+  margin-left: 18px;
+}
+
+.Uriel {
+  float: left;
+  border-style: inset;
+  border-color: black;
+
+}
+
+.PapiText {
+  background-color: bisque;
+  float: right;
+  border-style: inset;
+  border-color: rgb(21, 22, 21);
+  color:black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 19px;
+  line-height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+h5{
+  font-size: 25px;
+}
+
+.MamaA {
+  margin-top: 30px;
+  margin-left: -25px;
+  display: inline-block;
+  justify-content: space-between;
+}
+
+.Allison {
+  margin-left: 65px;
+  float: right;
+  border-style: inset;
+  border-color: black;
+ 
+}
+
+.allisontext {
+  float: left;
+  background-color: bisque;
+  border-style: inset;
+  border-color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 19px;
+  line-height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.Isaiah {
+  font-size: 25px;
+  display: inline-block;
+
+}
+
+.IsaiahPic {
+float: left;
+border-style: inset;
+border-color: black;
+margin-right: 10px;
+}
+
+.IsaiahText {
+  background-color: bisque;
+  float: right;
+  border-style: inset;
+  border-color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 19px;
+  line-height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.Elijah {
+  font-size: 25px;
+  display: inline-block;
+  
+
+}
+
+.ElijahPic {
+  float: right;
+  border-style: inset;
+  border-color: black;
+  margin-left: 15px;
+}
+
+.ElijahText {
+  float: left;
+  border-style: inset;
+  border-color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 19px;
+  line-height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: bisque;
+}
+
+.LiamC {
+  display: inline-block;
+  font-size: 25px;
+}
+
+.LiamPic {
+  margin-right: 15px;
+  float: left;
+  border-style: inset;
+  border-color: black;
+}
+
+.LiamText {
+  float: right;
+  font-size: 19px;
+  border-style: inset;
+  border-color: black;
+  line-height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: bisque;
+}
